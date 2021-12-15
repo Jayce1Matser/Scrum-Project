@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: burlywood;
+}
+header{
+    height: 175px;
+    width: 80%;
+    background-color: blue;
+    margin-left: 10%;
+}
+main{
+    height: 1000px;
+    background-color: green;
+    width: 90%;
+    margin-left: 5%;
+}
+footer{
+    height: 125px;
+    width: 100%;
+    background-color: hotpink;
+}
+nav{
+    width: 80%;
+    height: 125px;
+    background-color: chocolate;
+    margin-left: 10%;
+}
+.nav_links {
+    list-style: none;
+}
+.Nteksts{
+    margin-left: 5%;
+}
+.nav_links li {
+    display: inline-block;
+    padding: 45px 50px;
+margin-left: 2%;
+}
+.nav_links li a:hover {
+    transition: all 2,0 ease 0;
+    color: goldenrod
+
+}
