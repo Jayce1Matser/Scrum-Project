@@ -44,10 +44,10 @@ margin-left: 2%;
 .nav_links li a:hover {
     transition: all 2,0 ease 0;
     color: goldenrod
-
 }
+.m-container{
+    height: 800px;
+    width: 500px;
+    background-color: green;
 
-.fotojapcom{
-    display: flex;
-    flex-direction: row;
 }
