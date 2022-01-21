@@ -5,29 +5,29 @@
 }
 
 body{
-    background-color: burlywood;
+    background-color: #A7ACD9;
 }
 header{
     height: 175px;
     width: 80%;
-    background-color: blue;
+    background-color: #42F2F7;
     margin-left: 10%;
 }
 main{
     height: 1000px;
-    background-color: green;
+    background-color: #36558F;
     width: 90%;
     margin-left: 5%;
 }
 footer{
-    height: 125px;
+    height: 75px;
     width: 100%;
-    background-color: hotpink;
+    background-color: #5B5D74;
 }
 nav{
     width: 80%;
     height: 125px;
-    background-color: chocolate;
+    background-color: #5B5D74;
     margin-left: 10%;
 }
 .nav_links {
